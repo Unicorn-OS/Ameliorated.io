@@ -1,2 +1,6 @@
 # Ameliorated.io
-https://ameliorated.io/ A Windows Modification &amp; setup tool! Can install msi &amp; chocolatey packages too!
+A Windows Modification & setup tool! Can install msi & chocolatey packages too!
+
+Home: https://ameliorated.io/
+
+docs: https://docs.ameliorated.io/index.html
